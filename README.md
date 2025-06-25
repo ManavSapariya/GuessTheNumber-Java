@@ -1,4 +1,4 @@
-# javarepository
+# GuessTheNumber-Java
 <br>
 # 🎯 Guess The Number - Java Console Game
 <br>
